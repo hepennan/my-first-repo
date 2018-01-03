@@ -1,6 +1,17 @@
 # my-first-repo
 my first repository
-testing testing
-##I added this line in the update-readme branch
-It is rainy outside today
-It is cloudy and stormy outside today
+
+Ordered list:
+1. testing testing
+2. testing ordered list
+
+## smaller header
+
+### and even smaller header
+
+
+Unordered list
+- *first* item
+- *another* item
+
+
